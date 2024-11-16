@@ -1,2 +1,2 @@
 # Python
-This repository contains all the python codes that I have completed from Nxtwave coding practices, assignments, and IDP sets
+This repository contains each and every code of python assignment , coding-practice and IDP series that I have done in NxtWave.
